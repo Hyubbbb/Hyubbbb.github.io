@@ -2,7 +2,12 @@
 
 source "https://rubygems.org"
 
-gemspec
+# Jekyll과 Chirpy 테마 추가
+gem "jekyll", "~> 4.2"
+gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
+
+# 로컬 gemspec을 사용 중이라면 유지 (없다면 삭제 가능)
+# gemspec
 
 gem "html-proofer", "~> 5.0", group: :test
 
