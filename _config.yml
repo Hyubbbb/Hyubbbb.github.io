@@ -38,8 +38,8 @@ social:
   email: hyub@yonsei.ac.kr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/hyubkim
     - https://github.com/Hyubbbb # change to your GitHub homepage
+    - https://www.linkedin.com/in/hyubkim
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://twitter.com/username # change to your Twitter homepage
