@@ -28,7 +28,7 @@ url: "https://Hyubbbb.github.io"
 github:
   username: Hyubbbb # change to your GitHub username
 
-twitter: ""
+# twitter: ""
 #   username: twitter_username # change to your Twitter username
 
 social:
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Hyubbbb # change to your GitHub homepage
-    - https://www.linkedin.com/in/hyubkim
+    # - https://www.linkedin.com/in/hyubkim
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://twitter.com/username # change to your Twitter homepage
@@ -95,7 +95,8 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn: 
+# cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "assets/img/profile_turtle.png"
