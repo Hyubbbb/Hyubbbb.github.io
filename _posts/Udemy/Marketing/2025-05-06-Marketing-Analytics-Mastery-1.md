@@ -1,7 +1,7 @@
 ---
-title: \[Udemy':' Marketing Analytics Mastery\] Section 1
+title: Udemy: Marketing Analytics Mastery Section 2
 description: Course Introduction
-date: 2025-05-06 11:00:00 +0800
+date: 2025-05-06 20:00:00 +0800
 categories: [Marketing]
 tags: []
 pin: false
@@ -15,10 +15,15 @@ image: # 게시글 대표 이미지
 [Udemy: Marketing Analytics Mastery: From Strategy to Application](https://www.udemy.com/course/marketing-analytics-masterclass/?couponCode=ST6MT60525G1)
 
 
-## 1️⃣ 강의 수강 목적
-1. 데이터 분석가로서,
-   - 어떤 Metric을,
-   - 어떤 이유로,
-   - 어떻게 살펴야 하는지를 알고자 함
-2. 데이터 분석에서 자주 쓰이는 **GA4**, **A/B Test**, **ROI**(Return on Investment) 계산 등을 경험해보고자 함
-3. **대시보드 구축의 목적과 핵심**을 경험해보고자 함
+## 1️⃣ Topic
+- [ ] 우리는 왜 마케팅 지표를 측정하는가? (Why measure?)
+- [ ] ㅁㅇㄴ
+
+과거의 경험을 기반으로 성공/실패를 측정하고, 새로운 의사결정을 더 빠르고 정확하게 할 수 있다
+
+1. Inspire
+2. Learn from success and failure
+3. Optimize
+4. Identify
+5. Validate
+6. Create
